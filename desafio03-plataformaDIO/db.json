@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Marcos",
+      "email": "marcos@email.com",
+      "senha": "123456"
+    }
+  ]
+}
