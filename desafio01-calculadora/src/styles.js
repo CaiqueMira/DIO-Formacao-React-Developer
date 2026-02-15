@@ -8,10 +8,9 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    `
+`    
     
-    
-    export const Content = styled.div`
+export const Content = styled.div`
     background-color: #34393F;
     width: 50%;
     max-width: 500px;
