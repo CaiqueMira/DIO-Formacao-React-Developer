@@ -23,12 +23,25 @@ O projeto consiste em uma calculadora cujo funcionamento foi inspirado na versã
 
 ## [Desafio 02 - Wiki do Github](desafio02-github)
 
-<details open>
+<details>
 
 <summary> Wiki GitHub </summary>
 
 O projeto consiste em uma interface que tem como proposta funcionar como uma Wiki interativa para organizar e salvar repositórios do GitHub. Utilizando a API do GitHub, a aplicação realiza requisições a partir do valor inserido no campo de busca, permitindo localizar repositórios de maneira dinâmica. Cada resultado é exibido com um link direto ao repositório no GitHub, além de um link para remover o repositório da lista, caso o usuário deseje.
 [![Wiki GitHub](/assets/wiki%20GitHub.png "Wiki GitHub")](desafio02-github)
+
+</details>
+
+## [Desafio 03 - Plataforma DIO](desafio03-plataformaDIO)
+
+<details open>
+
+<summary> Plataforma DIO </summary>
+
+O projeto consiste no desenvolvimento de uma aplicação que replica as principais páginas da plataforma DIO. A aplicação contempla as páginas de Home, Login, Cadastro e Feed.
+O sistema de autenticação é realizado por meio de uma API simulada com json-server, permitindo o cadastro de novos usuários e a autenticação na plataforma.
+Além disso, os formulários possuem validação de campos implementada com a biblioteca Yup, garantindo a consistência dos valores inseridos.
+[![Plataforma DIO](/assets/plataforma_dio.png "Plataforma DIO")](desafio03-plataformaDIO)
 
 </details>
 
