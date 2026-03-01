@@ -23,7 +23,7 @@ O projeto consiste em uma calculadora cujo funcionamento foi inspirado na versã
 
 ## [Desafio 02 - Wiki do Github](desafio02-github)
 
-<details open>
+<details>
 
 <summary> Wiki GitHub </summary>
 
@@ -49,7 +49,7 @@ Além disso, os formulários possuem validação de campos implementada com a bi
 
 ## [Desafio 04 - Login com TypeScript](desafio04-loginComTypescript)
 
-<details open>
+<details>
 
 <summary> Login com TypeScript </summary>
 
@@ -57,6 +57,23 @@ O projeto consiste no desenvolvimento de um formulário utilizando TypeScript, c
 
 O formulário foi implementado com a biblioteca **React Hook Form**, responsável pelo gerenciamento e registro dos campos, e integrado à biblioteca **Yup** para validação dos dados, assegurando a consistência e integridade das informações inseridas. Dessa forma, o botão de submissão somente é habilitado caso o formulário esteja válido.
 [![Login com TypeScript](/assets/login_com_typescript.png "Login com TypeScript")](desafio04-loginComTypescript)
+
+</details>
+
+## [Desafio 05 - Blog com Next.js](desafio05-blog-nextjs)
+
+<details open>
+
+<summary> Blog com Next.js </summary>
+
+O projeto consiste em um blog desenvolvido com o framework **Next.js**, integrado ao **Supabase** para o consumo dinâmico de informações armazenadas no banco de dados.
+
+Inicialmente, a aplicação contemplava apenas as páginas Home e de detalhes dos posts, permitindo exclusivamente a visualização dos conteúdos cadastrados no banco de dados. Com o objetivo de ampliar as funcionalidades e as interações do sistema, implementei o CRUD completo, possibilitando a criação, edição e exclusão de posts.
+
+Além disso, a aplicação passou a contar com uma página de formulário dedicada ao cadastro e à edição dos posts, permitindo o preenchimento e a atualização de informações como título, descrição e conteúdo. O formulário foi implementado com a biblioteca do **React Hook Forms**, responsável pelo gerenciamento, registro dos campos e controle das validações.
+[![Blog com Next.js Home](/assets/blog_com_nextjs_home.png "Blog com Next.js Home")](desafio05-blog-nextjs)
+[![Blog com Next.js Detalhes](/assets/blog_com_nextjs_detalhes.png "Blog com Next.js Detalhes")](desafio05-blog-nextjs)
+[![Blog com Next.js Forms](/assets/blog_com_nextjs_forms.png "Blog com Next.js Forms")](desafio05-blog-nextjs)
 
 </details>
 
